@@ -1,4 +1,6 @@
 # resume
 [Heroku hosted site CLICK ON ME](https://olamiresume.herokuapp.com/)
 
-![ZURI.INTERNSHIP](https://internship.zuri.team/static/media/logo.36d2d48a.svg)
+## My task two is in the name folder
+
+![ZURI.INTERNSHIP](https://internship.zuri.team/)
