@@ -1,2 +1,4 @@
 # resume
-[Heroku hosted site](https://olamiresume.herokuapp.com/)
+[Heroku hosted site CLICK ON ME](https://olamiresume.herokuapp.com/)
+
+![ZURI.INTERNSHIP](/images/logo.png)
