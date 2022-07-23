@@ -7,7 +7,7 @@ Resources:
     Properties:
       SecurityGroups:
         - !Ref InstanceSecurityGroup
-      KeyName: vockey
+      KeyName: udacity_test
       ImageId: 'ami-052efd3df9dad4825'
       InstanceType: t2.micro
   InstanceSecurityGroup:
